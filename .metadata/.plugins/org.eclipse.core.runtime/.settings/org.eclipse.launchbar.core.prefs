@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:MainActivity,org.eclipse.launchbar.core.descriptorType.default\:mymain,org.eclipse.launchbar.core.descriptorType.default\:ForceApkObj,org.eclipse.launchbar.core.descriptorType.default\:SmaliSample,org.eclipse.launchbar.core.descriptorType.default\:ReforceApk,org.eclipse.launchbar.core.descriptorType.default\:ForceApkObj1,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:MainActivity (1)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ForceApkObj/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:ForceApkObj/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:MainActivity/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ReforceApk/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:mymain/activeLaunchMode=run

@@ -1,0 +1,63 @@
+package com.example.forceapkobj; class MainActivity$1 { void a() { int a;
+a=0;// .class Lcom/example/forceapkobj/MainActivity$1;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "MainActivity.java"
+a=0;// 
+a=0;// # interfaces
+a=0;// .implements Landroid/view/View$OnClickListener;
+a=0;// 
+a=0;// 
+a=0;// # annotations
+a=0;// .annotation system Ldalvik/annotation/EnclosingMethod;
+a=0;//     value = Lcom/example/forceapkobj/MainActivity;->onCreate(Landroid/os/Bundle;)V
+a=0;// .end annotation
+a=0;// 
+a=0;// .annotation system Ldalvik/annotation/InnerClass;
+a=0;//     accessFlags = 0x0
+a=0;//     name = null
+a=0;// .end annotation
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic this$0:Lcom/example/forceapkobj/MainActivity;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method constructor <init>(Lcom/example/forceapkobj/MainActivity;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 31
+a=0;//     iput-object p1, p0, Lcom/example/forceapkobj/MainActivity$1;->this$0:Lcom/example/forceapkobj/MainActivity;
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public onClick(Landroid/view/View;)V
+a=0;//     .locals 3
+a=0;//     .param p1, "v"    # Landroid/view/View;
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 36
+a=0;//     new-instance v0, Landroid/content/Intent;
+a=0;// 
+a=0;//     iget-object v1, p0, Lcom/example/forceapkobj/MainActivity$1;->this$0:Lcom/example/forceapkobj/MainActivity;
+a=0;// 
+a=0;//     const-class v2, Lcom/example/forceapkobj/SubActivity;
+a=0;// 
+a=0;//     invoke-direct {v0, v1, v2}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
+a=0;// 
+a=0;//     .line 37
+a=0;//     .local v0, "intent":Landroid/content/Intent;
+a=0;//     iget-object v1, p0, Lcom/example/forceapkobj/MainActivity$1;->this$0:Lcom/example/forceapkobj/MainActivity;
+a=0;// 
+a=0;//     invoke-virtual {v1, v0}, Lcom/example/forceapkobj/MainActivity;->startActivity(Landroid/content/Intent;)V
+a=0;// 
+a=0;//     .line 38
+a=0;//     return-void
+a=0;// .end method
+}}
